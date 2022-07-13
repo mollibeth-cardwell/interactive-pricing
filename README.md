@@ -43,9 +43,8 @@ Users should be able to:
 
 - HTML5 markup
 - CSS custom properties
-- Bootstrap Card and Grid
+- [Bootstrap](https://getbootstrap.com/) Card and Grid
 - Javascript
-- [Bootstrap](https://getbootstrap.com/)
 
 
 ### What I learned
